@@ -1,0 +1,8 @@
+[default]
+ident = "Rust+Rocket"
+
+[release]
+port = 3575
+
+[debug]
+port = 8000
